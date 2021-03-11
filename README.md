@@ -3,8 +3,8 @@
 
 ## Little About Myself as Engineer!👷 
 
-- 🔭 I’m currently working on ## Effect of sentimental analysis for stock market exchange predictions.
-- 🔭 I’m currently working on ## Effect of sentimental analysis for stock market exchange predictions.
+- 🔭 I’m currently working on  -Effect of sentimental analysis for stock market exchange predictions.
+- 🔭 I’m currently working on - Effect of sentimental analysis for stock market exchange predictions.
 - 🌱 **I’m currently learning** - Machine learning techniques
 - 💬 **Language** - C++, C, Python
 - 🥅 **FrameWork & Technology** - Jupyter Notebook, MySQL, MongoDB,
