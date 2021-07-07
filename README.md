@@ -5,7 +5,7 @@ Hi, I'm Sankalp Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 
 - 🔭 **I’m currently working on**  -Effect of sentimental analysis for stock market exchange predictions.
 - 🌱 **I’m currently learning** - Machine learning techniques
-- 💬 **Language** - C++, C, Python
+- 💬 **Language** - C++, C, Python,C#
 - 🥅 **FrameWork & Technology** - Jupyter Notebook, MySQL, MongoDB,
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
 
