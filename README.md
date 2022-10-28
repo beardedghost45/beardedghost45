@@ -3,8 +3,8 @@ Hi, I'm Sankalp Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 
 ## Little About Myself as Engineer!👷 
 
-- 🔭 **I’m currently working on**  -Effect of sentimental analysis for stock market exchange predictions.
-- 🌱 **I’m currently learning** - Machine learning techniques
+- 🔭 **I’m currently working with**  - Paytm 
+- 🌱 **I’m currently learning** - Java , SpringBoot
 - 💬 **Language** - C++, C, Python,C#
 - 🥅 **FrameWork & Technology** - Jupyter Notebook, MySQL, MongoDB,
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
