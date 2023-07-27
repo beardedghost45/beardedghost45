@@ -4,8 +4,8 @@ Hi, I'm Sankalp Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 ## Little About Myself as Engineer!👷 
 
 - 🔭 **I’m currently working with**  - Paytm 
-- 🌱 **I’m currently learning** - Java , SpringBoot
-- 💬 **Language** - C++, C, Python,C#
+- 🌱 **I’m currently working in ** - Java , SpringBoot, AWS ( EC2 , S3)
+- 💬 **Language** - C++, C, Python,C#, Java
 - 🥅 **FrameWork & Technology** - Jupyter Notebook, MySQL, MongoDB,
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
 
